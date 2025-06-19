@@ -34,7 +34,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/birhanu-dejen/AB-ECommerce-driver.git
+   git clone https://github.com/Ermias5869/ABStore-driver.git
    ```
 
 2. **Install dependencies**:
@@ -72,4 +72,4 @@ Make sure to set up your environment variables for API endpoints in the `.env` f
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-- **birhanu dejen** - [birhanudejen617@gmail.com.com](mailto:your.email@example.com)
+- **ermias amare** - [ermiasamare58@gmail.com.com](mailto:your.email@example.com)
